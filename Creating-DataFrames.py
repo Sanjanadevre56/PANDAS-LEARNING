@@ -69,8 +69,8 @@ df = pd.read_csv(url)
 # df.tail()         # Last 5 rows
 # df.info()         # Column info: types, non-nulls
 # df.describe()     # Stats for numeric columns
-# df.columns        # List of column names
-# df.shape          # (rows, columns)
+# df.columns        # List of column names , Attribute
+# df.shape          # (rows, columns) , Attribute 
 
 # Summary
 # You can create DataFrames from lists, dicts, arrays, files, web, and SQL
